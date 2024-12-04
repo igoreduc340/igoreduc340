@@ -3,14 +3,6 @@
 Sou Igor, um desenvolvedor python focado em simplificar processos e torná-los mais eficientes
 
 ### Sobre mim:
-- 🌱 Atualmente estou aprendendo: <br> Design Patterns ,
-estou me dedicando a aprofundar meu conhecimento em padrões de projeto, aplicando soluções inteligentes e organizadas.
-Meu objetivo é seguir os princípios DRY (Don't Repeat Yourself) e SOLID, garantindo uma arquitetura robusta e sustentável a longo prazo.
- 
-- 📚 Livros Favoritos: Tenho uma forte paixão pela leitura e busco constantemente novos títulos. Entre as minhas leituras,
-destaco "Aprendendo Lógica de Programação com Python" de Nilo Ney Coutinho, e "Python Fluente" de Luciano Ramalho. Esses livros têm sido fundamentais
-para aprimorar minhas habilidades em programação. Estou sempre aberto a novas recomendações!
-
 - 💼 Experiência: Atualmente, sou um desenvolvedor que trabalha com o ERP de código aberto Odoo, que usa lógica escrita em Python no lado do servidor
 e JavaScript no lado do cliente.
 
